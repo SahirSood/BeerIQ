@@ -1,1 +1,2 @@
-# BeerIQ
+⚠️ Note on Commit History:
+Initial backend and frontend development was completed on an earlier branch (sahir-1), which was later deleted during repository cleanup. As a result, commits reflecting the original database schema and core UI were not merged into main. Due to changes in project structure and Firestore design, the database was later rebuilt on a new branch. This repository reflects the current iteration in progress.
